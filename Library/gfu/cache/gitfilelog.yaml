@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -514704792, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 4
+  lastUpdatedAtString: 2020-05-07T01:37:13.539+02:00
+  initializedAtString: 2020-05-07T01:37:13.539+02:00
+  fileLog:
+    path: Assets/DrJ/Asetet e lojes/Graphics/Character Dialog Heads/Dr J Snooty.png
+    logEntries:
+    - commitID: 43b5b65b8dac26a081a9861910485029712e3376
+      mergeA: 
+      mergeB: 
+      authorName: Emilian Kasemi
+      authorEmail: theringsofsaturn@users.noreply.github.com
+      commitEmail: theringsofsaturn@users.noreply.github.com
+      commitName: Emilian Kasemi
+      summary: changes
+      description: 
+      timeString: 2020-05-07T01:00:18.000+02:00
+      commitTimeString: 2020-05-07T01:00:18.000+02:00
+      changes:
+      - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J Snooty.png
+        fullPath: C:\Users\user\Documents\GitHub\Story Telling Game Project\Assets\DrJ\Asetet
+          e lojes\Graphics\Character Dialog Heads\Dr J Snooty.png
+        projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr
+          J Snooty.png
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0

@@ -1,0 +1,912 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-05-07T04:57:09.981+02:00
+  initializedAtString: 2020-05-07T03:12:15.216+02:00
+  log:
+  - commitID: 76b5c6177f9e7ce06079c497068a3b02937a7933
+    mergeA: 
+    mergeB: 
+    authorName: Emilian Kasemi
+    authorEmail: theringsofsaturn@users.noreply.github.com
+    commitEmail: theringsofsaturn@users.noreply.github.com
+    commitName: Emilian Kasemi
+    summary: changes
+    description: 
+    timeString: 2020-05-07T03:07:45.000+02:00
+    commitTimeString: 2020-05-07T03:07:45.000+02:00
+    changes:
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Diploma.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\Diploma.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Diploma.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 1.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\Drag 1.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 1.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 2.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\Drag 2.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 2.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 3.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\Drag 3.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 3.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Holder for target.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\Holder for target.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Holder for target.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\InteriourBG.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\InteriourBG.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\InteriourBG.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Lamp.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\Lamp.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Lamp.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Lamp.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\Lamp.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Lamp.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\hat.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\hat.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\hat.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\lamp on.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\lamp on.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\lamp on.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\lamp on.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\lamp on.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\lamp on.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\picture.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\picture.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\picture.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 11850eb5b2fae24d61ac12cd9a71ea048bb4b1f2
+    mergeA: 
+    mergeB: 
+    authorName: Emilian Kasemi
+    authorEmail: theringsofsaturn@users.noreply.github.com
+    commitEmail: theringsofsaturn@users.noreply.github.com
+    commitName: Emilian Kasemi
+    summary: changes
+    description: 
+    timeString: 2020-05-07T03:00:57.000+02:00
+    commitTimeString: 2020-05-07T03:00:57.000+02:00
+    changes:
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J Snooty.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Dr J Snooty.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J
+        Snooty.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J Whaa.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Dr J Whaa.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J
+        Whaa.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H Angry.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Mr H Angry.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H
+        Angry.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H Haha .png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Mr H Haha .png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H
+        Haha .png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H Whaa.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Mr H Whaa.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H
+        Whaa.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButton.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\CusOptionButton.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButton.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonDisabled.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\CusOptionButtonDisabled.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonDisabled.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonHighlighted.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\CusOptionButtonHighlighted.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonHighlighted.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonPressed.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\CusOptionButtonPressed.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonPressed.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\DialogBox Hyde.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\DialogBox Hyde.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\DialogBox Hyde.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\DialogBox Jekell.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\DialogBox Jekell.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\DialogBox Jekell.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\coat.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\coat.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\coat.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 5dc8474a410c554bdce5234fb63b2bfb87184a05
+    mergeA: 
+    mergeB: 
+    authorName: Emilian Kasemi
+    authorEmail: theringsofsaturn@users.noreply.github.com
+    commitEmail: theringsofsaturn@users.noreply.github.com
+    commitName: Emilian Kasemi
+    summary: changes
+    description: 
+    timeString: 2020-05-07T02:59:07.000+02:00
+    commitTimeString: 2020-05-07T02:59:07.000+02:00
+    changes:
+    - path: Assets\DrJ\Asetet e lojes\Animation.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Animation.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Animation.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Fonts\2Dumb.ttf
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Fonts\2Dumb.ttf
+      projectPath: Assets\DrJ\Asetet e lojes\Fonts\2Dumb.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J angry.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Dr J angry.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J
+        angry.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 43b5b65b8dac26a081a9861910485029712e3376
+    mergeA: 
+    mergeB: 
+    authorName: Emilian Kasemi
+    authorEmail: theringsofsaturn@users.noreply.github.com
+    commitEmail: theringsofsaturn@users.noreply.github.com
+    commitName: Emilian Kasemi
+    summary: changes
+    description: 
+    timeString: 2020-05-07T01:00:18.000+02:00
+    commitTimeString: 2020-05-07T01:00:18.000+02:00
+    changes:
+    - path: Assets\DrJ\Asetet e lojes.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes.meta
+      projectPath: Assets\DrJ\Asetet e lojes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Animation\Dr_J_Spine Size Down (default).prefab
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Animation\Dr_J_Spine Size Down (default).prefab
+      projectPath: Assets\DrJ\Asetet e lojes\Animation\Dr_J_Spine Size Down (default).prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Animation\Dr_J_Spine Size Down (default).prefab.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Animation\Dr_J_Spine Size Down (default).prefab.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Animation\Dr_J_Spine Size Down (default).prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Animation\Dr_J_Spine Size Down Controller.controller
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Animation\Dr_J_Spine Size Down Controller.controller
+      projectPath: Assets\DrJ\Asetet e lojes\Animation\Dr_J_Spine Size Down Controller.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Animation\Dr_J_Spine Size Down Controller.controller.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Animation\Dr_J_Spine Size Down Controller.controller.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Animation\Dr_J_Spine Size Down Controller.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Animation\Dr_J_Spine Size Down.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Animation\Dr_J_Spine Size Down.png
+      projectPath: Assets\DrJ\Asetet e lojes\Animation\Dr_J_Spine Size Down.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Animation\Dr_J_Spine Size Down.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Animation\Dr_J_Spine Size Down.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Animation\Dr_J_Spine Size Down.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Animation\Dr_J_Spine Size Down_Material.mat
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Animation\Dr_J_Spine Size Down_Material.mat
+      projectPath: Assets\DrJ\Asetet e lojes\Animation\Dr_J_Spine Size Down_Material.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Animation\Dr_J_Spine Size Down_Material.mat.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Animation\Dr_J_Spine Size Down_Material.mat.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Animation\Dr_J_Spine Size Down_Material.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Animation\Skeleton.shader
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Animation\Skeleton.shader
+      projectPath: Assets\DrJ\Asetet e lojes\Animation\Skeleton.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Animation\Skeleton.shader.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Animation\Skeleton.shader.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Animation\Skeleton.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Audio.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\Boinging.wav
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\Boinging.wav
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\Boinging.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\Boinging.wav.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\Boinging.wav.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\Boinging.wav.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\GlugGlugGlug.wav
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\GlugGlugGlug.wav
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\GlugGlugGlug.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\GlugGlugGlug.wav.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\GlugGlugGlug.wav.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\GlugGlugGlug.wav.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\Transform.wav
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\Transform.wav
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\Transform.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\Transform.wav.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\Transform.wav.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\Transform.wav.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\end loop breathing.wav
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\end loop breathing.wav
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\end loop breathing.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\end loop breathing.wav.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\end loop breathing.wav.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\end loop breathing.wav.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\hyde Growl.wav
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\hyde Growl.wav
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\hyde Growl.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\hyde Growl.wav.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\hyde Growl.wav.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\hyde Growl.wav.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\jeck and hyde audio.mp3
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\jeck and hyde audio.mp3
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\jeck and hyde audio.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\jeck and hyde audio.mp3.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\jeck and hyde audio.mp3.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\jeck and hyde audio.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\jekell Mumble.wav
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\jekell Mumble.wav
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\jekell Mumble.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\jekell Mumble.wav.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\jekell Mumble.wav.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\jekell Mumble.wav.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\liquid splash and fizz 1.mp3
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\liquid splash and fizz 1.mp3
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\liquid splash and fizz 1.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\liquid splash and fizz 1.mp3.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\liquid splash and fizz 1.mp3.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\liquid splash and fizz 1.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\pick up glass with slight drag.mp3
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\pick up glass with slight drag.mp3
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\pick up glass with slight drag.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\pick up glass with slight drag.mp3.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\pick up glass with slight drag.mp3.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\pick up glass with slight drag.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\pop 01.wav
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\pop 01.wav
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\pop 01.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Audio\pop 01.wav.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Audio\pop 01.wav.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Audio\pop 01.wav.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Fonts.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Fonts.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Fonts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Fonts\.DS_Store
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Fonts\.DS_Store
+      projectPath: Assets\DrJ\Asetet e lojes\Fonts\.DS_Store
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Fonts\2Dumb.ttf.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Fonts\2Dumb.ttf.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Fonts\2Dumb.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Fonts\Barthowheel Regular.ttf
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Fonts\Barthowheel Regular.ttf
+      projectPath: Assets\DrJ\Asetet e lojes\Fonts\Barthowheel Regular.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Fonts\Barthowheel Regular.ttf.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Fonts\Barthowheel Regular.ttf.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Fonts\Barthowheel Regular.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Fonts\ComicNeue-Angular-Bold.ttf
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Fonts\ComicNeue-Angular-Bold.ttf
+      projectPath: Assets\DrJ\Asetet e lojes\Fonts\ComicNeue-Angular-Bold.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Fonts\ComicNeue-Angular-Bold.ttf.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Fonts\ComicNeue-Angular-Bold.ttf.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Fonts\ComicNeue-Angular-Bold.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\.DS_Store
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\.DS_Store
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\.DS_Store
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\.DS_Store
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\.DS_Store
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\.DS_Store
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J Snooty.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Dr J Snooty.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J
+        Snooty.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J Snooty.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Dr J Snooty.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J
+        Snooty.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J Whaa.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Dr J Whaa.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J
+        Whaa.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J Whaa.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Dr J Whaa.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J
+        Whaa.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J angry.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Dr J angry.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J
+        angry.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J angry.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Dr J angry.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Dr J
+        angry.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H Angry.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Mr H Angry.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H
+        Angry.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H Angry.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Mr H Angry.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H
+        Angry.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H Haha .png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Mr H Haha .png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H
+        Haha .png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H Haha .png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Mr H Haha .png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H
+        Haha .png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H Whaa.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Mr H Whaa.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H
+        Whaa.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H Whaa.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Character Dialog Heads\Mr H Whaa.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Character Dialog Heads\Mr H
+        Whaa.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButton.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\CusOptionButton.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButton.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButton.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\CusOptionButton.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButton.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonDisabled.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\CusOptionButtonDisabled.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonDisabled.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonDisabled.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\CusOptionButtonDisabled.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonDisabled.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonHighlighted.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\CusOptionButtonHighlighted.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonHighlighted.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonHighlighted.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\CusOptionButtonHighlighted.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonHighlighted.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonPressed.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\CusOptionButtonPressed.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonPressed.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonPressed.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\CusOptionButtonPressed.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\CusOptionButtonPressed.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\DialogBox Hyde.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\DialogBox Hyde.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\DialogBox Hyde.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\DialogBox Hyde.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\DialogBox Hyde.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\DialogBox Hyde.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\DialogBox Jekell.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\DialogBox Jekell.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\DialogBox Jekell.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\DialogBox Jekell.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\Dialogboxs\DialogBox Jekell.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\Dialogboxs\DialogBox Jekell.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\.DS_Store
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\.DS_Store
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\.DS_Store
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Diploma.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\Diploma.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Diploma.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Diploma.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\Diploma.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Diploma.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 1.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\Drag 1.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 1.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\Drag 1.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 2.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\Drag 2.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 2.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\Drag 2.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 3.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\Drag 3.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 3.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\Drag 3.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Drag 3.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Holder for target.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\Holder for target.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Holder for target.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Holder for target.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\Holder for target.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\Holder for target.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\InteriourBG.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\InteriourBG.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\InteriourBG.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\InteriourBG.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\InteriourBG.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\InteriourBG.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\coat.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\coat.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\coat.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\coat.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\coat.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\coat.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\hat.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\hat.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\hat.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\IndSide\hat.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\IndSide\hat.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\IndSide\hat.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 800bdc295d2e8544627aa35c3d43f10af54a3ab8
+    mergeA: 
+    mergeB: 
+    authorName: Emilian Kasemi
+    authorEmail: theringsofsaturn@users.noreply.github.com
+    commitEmail: theringsofsaturn@users.noreply.github.com
+    commitName: Emilian Kasemi
+    summary: First commit
+    description: 
+    timeString: 2020-05-06T00:58:54.000+02:00
+    commitTimeString: 2020-05-06T00:58:54.000+02:00
+    changes:
+    - path: Assets\DrJ.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ.meta
+      projectPath: Assets\DrJ.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Fungus Sample Project.unity
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Fungus
+        Sample Project.unity
+      projectPath: Assets\DrJ\Fungus Sample Project.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Fungus Sample Project.unity.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Fungus
+        Sample Project.unity.meta
+      projectPath: Assets\DrJ\Fungus Sample Project.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fungus.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\Fungus.meta
+      projectPath: Assets\Fungus.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
