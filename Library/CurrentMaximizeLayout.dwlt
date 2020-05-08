@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1280
     height: 587
-  m_MinSize: {x: 681, y: 321}
-  m_MaxSize: {x: 12006, y: 8021}
+  m_MinSize: {x: 683, y: 342}
+  m_MaxSize: {x: 12008, y: 8042}
   vertical: 0
-  controlID: 7948
+  controlID: 10542
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -49,8 +49,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 19
-    width: 681
-    height: 376
+    width: 710
+    height: 288
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
   m_Stats: 0
@@ -59,10 +59,10 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -340.5
-    m_HBaseRangeMax: 340.5
-    m_VBaseRangeMin: -179.5
-    m_VBaseRangeMax: 179.5
+    m_HBaseRangeMin: -355
+    m_HBaseRangeMax: 355
+    m_VBaseRangeMin: -135.5
+    m_VBaseRangeMax: 135.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -79,25 +79,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 681
-      height: 359
+      width: 710
+      height: 271
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 340.5, y: 179.5}
+    m_Translation: {x: 355, y: 135.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -340.5
-      y: -179.5
-      width: 681
-      height: 359
+      x: -355
+      y: -135.5
+      width: 710
+      height: 271
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 681, y: 376}
+  m_LastWindowPixelSize: {x: 710, y: 288}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -119,12 +119,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 683
+    width: 712
     height: 587
-  m_MinSize: {x: 202, y: 321}
-  m_MaxSize: {x: 4002, y: 8021}
+  m_MinSize: {x: 202, y: 342}
+  m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 7929
+  controlID: 10505
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,8 +141,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 683
-    height: 397
+    width: 712
+    height: 309
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 2}
@@ -175,17 +175,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 92
-    width: 681
-    height: 376
+    width: 710
+    height: 288
   m_SceneLighting: 1
   lastFramingTime: 1972.4829149
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.10081586, y: -0.32953435, z: -0.000012966804}
+    m_Target: {x: -5.8890815, y: 0.12919101, z: -0.015625}
     speed: 2
-    m_Value: {x: -0.10081586, y: -0.32953435, z: -0.000012966804}
+    m_Value: {x: -5.8890815, y: 0.12919101, z: -0.015625}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -212,9 +212,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 21.899029
+    m_Target: 23.204885
     speed: 2
-    m_Value: 21.899029
+    m_Value: 23.204885
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -241,11 +241,11 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 397
-    width: 683
-    height: 190
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+    y: 309
+    width: 712
+    height: 278
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 11}
   m_Panes:
   - {fileID: 7}
@@ -254,7 +254,7 @@ MonoBehaviour:
   - {fileID: 10}
   - {fileID: 11}
   m_Selected: 4
-  m_LastSelected: 0
+  m_LastSelected: 3
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -278,9 +278,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 408
-    width: 681
-    height: 250
+    y: 401
+    width: 797
+    height: 257
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -302,10 +302,10 @@ MonoBehaviour:
   m_LastProjectPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 75}
+    scrollPos: {x: 0, y: 67}
     m_SelectedIDs: 342e0000
     m_LastClickedID: 11828
-    m_ExpandedIDs: 00000000222c0000282c0000da2c0000602e00009c2e0000462f00001e3200002032000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000222c0000282c0000da2c0000602e00009c2e0000462f0000443200004632000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -333,7 +333,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000222c0000282c0000da2c0000602e00009c2e0000462f00001e3200002032000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000222c0000282c0000da2c0000602e00009c2e0000462f0000443200004632000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -358,10 +358,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: ce310000
-    m_LastClickedInstanceID: 12750
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: 52240000822400003e250000202400001e2400002a2400004825000090240000302400003a24000038430000
+    m_SelectedInstanceIDs: d6380000
+    m_LastClickedInstanceID: 14550
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: 52240000822400003e250000202400001e2400002a2400004825000090240000302400003a2400003843000064360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -481,9 +481,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 400
-    width: 681
-    height: 258
+    y: 401
+    width: 797
+    height: 257
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -506,9 +506,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 489
-    width: 681
-    height: 169
+    y: 401
+    width: 710
+    height: 257
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -523,9 +523,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 683
+    x: 712
     y: 0
-    width: 234
+    width: 237
     height: 587
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
@@ -556,15 +556,15 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 685
+    x: 714
     y: 92
-    width: 230
+    width: 233
     height: 566
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a6310000
-    m_LastClickedID: 12710
-    m_ExpandedIDs: e685fcffa6fbffff0000000098310000
+    m_SelectedIDs: 9e0beeff
+    m_LastClickedID: 0
+    m_ExpandedIDs: 9451fcffa6fbffff000000009e310000ca310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -601,9 +601,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 917
+    x: 949
     y: 0
-    width: 363
+    width: 331
     height: 587
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
@@ -637,14 +637,14 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 919
+    x: 951
     y: 92
-    width: 361
+    width: 329
     height: 566
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
-    m_CachedPref: -188
+    m_CachedPref: 100
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
@@ -732,9 +732,9 @@ MonoBehaviour:
   currentTrackingStatusHasUpdate: 0
   currentStatusEntriesHasUpdate: 0
   repositoryProgressHasUpdate: 1
-  appManagerProgressHasUpdate: 0
-  changeTab: 2
-  activeTab: 2
+  appManagerProgressHasUpdate: 1
+  changeTab: 3
+  activeTab: 3
   initProjectView:
     hasCompletedInitialCheck: 0
     isUserDataPresent: 0
@@ -818,29 +818,558 @@ MonoBehaviour:
     remoteBranches: []
   changesView:
     currentBranchHasUpdate: 0
-    currentStatusEntriesHasUpdate: 0
-    currentLocksHasUpdate: 0
+    currentStatusEntriesHasUpdate: 1
+    currentLocksHasUpdate: 1
     commitBody: 
     commitMessage: 
-    currentBranch: '[unknown]'
+    currentBranch: '[master]'
     treeScroll: {x: 0, y: 0}
     treeChanges:
       assets:
         keys: []
         values: []
       folders:
-        keys: []
-        values: []
+        keys:
+        - Library
+        - Library\gfu
+        - Library\gfu\cache
+        - Library\metadata
+        - Library\metadata\00
+        - Temp
+        - Temp\__Backupscenes
+        values:
+        - path: Library
+          label: Library
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\gfu
+          label: gfu
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\gfu\cache
+          label: cache
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\metadata
+          label: metadata
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\metadata\00
+          label: 00
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Temp
+          label: Temp
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Temp\__Backupscenes
+          label: __Backupscenes
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
       checkedFileNodes:
         keys: []
         values: []
       title: 
-      pathSeparator: /
+      pathSeparator: \
       displayRootNode: 0
       isSelectable: 1
       isCheckable: 1
       isUsingGlobalSelection: 1
-      nodes: []
+      nodes:
+      - path: 
+        label: 
+        level: -1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library
+        label: Library
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\assetDatabase3
+        label: assetDatabase3
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\assetDatabase3
+          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\assetDatabase3
+          projectPath: Library\assetDatabase3
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\CurrentMaximizeLayout.dwlt
+        label: CurrentMaximizeLayout.dwlt
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\CurrentMaximizeLayout.dwlt
+          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\CurrentMaximizeLayout.dwlt
+          projectPath: Library\CurrentMaximizeLayout.dwlt
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\gfu
+        label: gfu
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\gfu\cache
+        label: cache
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\gfu\cache\branches.yaml
+        label: branches.yaml
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\gfu\cache\branches.yaml
+          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\branches.yaml
+          projectPath: Library\gfu\cache\branches.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\gfu\cache\gitlocks.yaml
+        label: gitlocks.yaml
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\gfu\cache\gitlocks.yaml
+          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gitlocks.yaml
+          projectPath: Library\gfu\cache\gitlocks.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\gfu\cache\gitlog.yaml
+        label: gitlog.yaml
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\gfu\cache\gitlog.yaml
+          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gitlog.yaml
+          projectPath: Library\gfu\cache\gitlog.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\gfu\cache\gitstatusentries.yaml
+        label: gitstatusentries.yaml
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\gfu\cache\gitstatusentries.yaml
+          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gitstatusentries.yaml
+          projectPath: Library\gfu\cache\gitstatusentries.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\gfu\cache\gittrackingstatus.yaml
+        label: gittrackingstatus.yaml
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\gfu\cache\gittrackingstatus.yaml
+          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gittrackingstatus.yaml
+          projectPath: Library\gfu\cache\gittrackingstatus.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\gfu\cache\repoinfo.yaml
+        label: repoinfo.yaml
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\gfu\cache\repoinfo.yaml
+          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\repoinfo.yaml
+          projectPath: Library\gfu\cache\repoinfo.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\metadata
+        label: metadata
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\metadata\00
+        label: 00
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\metadata\00\00000000000000005100000000000000
+        label: 00000000000000005100000000000000
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\00\00000000000000005100000000000000
+          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\00\00000000000000005100000000000000
+          projectPath: Library\metadata\00\00000000000000005100000000000000
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\metadata\00\00000000000000008000000000000000
+        label: 00000000000000008000000000000000
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\00\00000000000000008000000000000000
+          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\00\00000000000000008000000000000000
+          projectPath: Library\metadata\00\00000000000000008000000000000000
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\metadata\00\00000000000000009000000000000000
+        label: 00000000000000009000000000000000
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\00\00000000000000009000000000000000
+          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\00\00000000000000009000000000000000
+          projectPath: Library\metadata\00\00000000000000009000000000000000
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+        label: shadercompiler-UnityShaderCompiler.exe0.log
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\shadercompiler-UnityShaderCompiler.exe0.log
+          projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Temp
+        label: Temp
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Temp\__Backupscenes
+        label: __Backupscenes
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Temp\__Backupscenes\0.backup
+        label: 0.backup
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\__Backupscenes\0.backup
+          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Temp\__Backupscenes\0.backup
+          projectPath: Temp\__Backupscenes\0.backup
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Temp\UnityLockfile
+        label: UnityLockfile
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\UnityLockfile
+          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Temp\UnityLockfile
+          projectPath: Temp\UnityLockfile
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
       selectedNode:
         path: 
         label: 
@@ -860,20 +1389,104 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-    gitStatusEntries: []
-    changedFilesText: No changed files
+    gitStatusEntries:
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\metadata\00\00000000000000005100000000000000
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\00\00000000000000005100000000000000
+      projectPath: Library\metadata\00\00000000000000005100000000000000
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\metadata\00\00000000000000008000000000000000
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\00\00000000000000008000000000000000
+      projectPath: Library\metadata\00\00000000000000008000000000000000
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\metadata\00\00000000000000009000000000000000
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\00\00000000000000009000000000000000
+      projectPath: Library\metadata\00\00000000000000009000000000000000
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Temp\UnityLockfile
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Temp\UnityLockfile
+      projectPath: Temp\UnityLockfile
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    changedFilesText: 14 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 
-      cacheType: 0
+      updatedTimeString: 2020-05-08T01:11:42.719+02:00
+      cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 
-      cacheType: 0
+      updatedTimeString: 2020-05-08T05:17:57.762+02:00
+      cacheType: 6
     lastLocksChangedEvent:
-      updatedTimeString: 
-      cacheType: 0
+      updatedTimeString: 2020-05-08T05:18:00.706+02:00
+      cacheType: 7
   historyView:
-    currentLogHasUpdate: 1
-    currentTrackingStatusHasUpdate: 1
+    currentLogHasUpdate: 0
+    currentTrackingStatusHasUpdate: 0
     logEntries:
     - commitID: 76b5c6177f9e7ce06079c497068a3b02937a7933
       mergeA: 
@@ -1775,10 +2388,10 @@ MonoBehaviour:
         workTreeStatus: 0
     statusAhead: 0
     lastLogChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
+      updatedTimeString: 2020-05-07T04:57:09.981+02:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
+      updatedTimeString: 2020-05-07T04:57:09.955+02:00
       cacheType: 5
     historyControl:
       scroll: {x: 0, y: 0}
@@ -2811,7 +3424,7 @@ MonoBehaviour:
   currentRemoteUrl: https://github.com/theringsofsaturn/Tregim_Interaktiv.git
   statusAhead: 0
   statusBehind: 0
-  hasItemsToCommit: 0
+  hasItemsToCommit: 1
   isTrackingRemoteBranch: 1
   currentBranchContent:
     m_Text: master
@@ -2822,14 +3435,14 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 
-    cacheType: 0
+    updatedTimeString: 2020-05-08T01:11:42.719+02:00
+    cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 0001-01-01T00:00:00.000+00:00
+    updatedTimeString: 2020-05-08T01:11:42.661+02:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 
-    cacheType: 0
+    updatedTimeString: 2020-05-08T01:12:39.245+02:00
+    cacheType: 6
   pullButtonContent:
     m_Text: Pull
     m_Image: {fileID: 0}
@@ -2846,9 +3459,9 @@ MonoBehaviour:
     m_Text: Fetch
     m_Image: {fileID: 0}
     m_Tooltip: 
-  repositoryProgressValue: 0
-  repositoryProgressMessage: 
-  appManagerProgressValue: 0
-  appManagerProgressMessage: 
+  repositoryProgressValue: 1
+  repositoryProgressMessage: Reading locks...
+  appManagerProgressValue: 0.5
+  appManagerProgressMessage: Setting up git...
   connections: []
   primaryConnectionUsername: theringsofsaturn

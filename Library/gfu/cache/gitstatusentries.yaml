@@ -12,6 +12,253 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-05-07T04:57:45.201+02:00
-  initializedAtString: 2020-05-07T03:11:59.557+02:00
-  entries: []
+  lastUpdatedAtString: 2020-05-08T05:19:29.995+02:00
+  initializedAtString: 2020-05-08T01:10:53.639+02:00
+  entries:
+  - path: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Asset 1.png
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet e
+      lojes\Graphics\OutSide\Asset 1.png
+    projectPath: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Asset 1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Asset 1.png.meta
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet e
+      lojes\Graphics\OutSide\Asset 1.png.meta
+    projectPath: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Asset 1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Asset 3.png
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet e
+      lojes\Graphics\OutSide\Asset 3.png
+    projectPath: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Asset 3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Asset 3.png.meta
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet e
+      lojes\Graphics\OutSide\Asset 3.png.meta
+    projectPath: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Asset 3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Asset 4.png
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet e
+      lojes\Graphics\OutSide\Asset 4.png
+    projectPath: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Asset 4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Asset 4.png.meta
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet e
+      lojes\Graphics\OutSide\Asset 4.png.meta
+    projectPath: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Asset 4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Asset 5.png
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet e
+      lojes\Graphics\OutSide\Asset 5.png
+    projectPath: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Asset 5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Asset 5.png.meta
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet e
+      lojes\Graphics\OutSide\Asset 5.png.meta
+    projectPath: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Asset 5.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Credits.png
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet e
+      lojes\Graphics\OutSide\Credits.png
+    projectPath: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Credits.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Credits.png.meta
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet e
+      lojes\Graphics\OutSide\Credits.png.meta
+    projectPath: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Credits.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Title.png
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet e
+      lojes\Graphics\OutSide\Title.png
+    projectPath: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Title.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Title.png.meta
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet e
+      lojes\Graphics\OutSide\Title.png.meta
+    projectPath: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Title.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\DrJ\Fillimi i Lojes.unity
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Fillimi
+      i Lojes.unity
+    projectPath: Assets\DrJ\Fillimi i Lojes.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\00\00000000000000005100000000000000
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\00\00000000000000005100000000000000
+    projectPath: Library\metadata\00\00000000000000005100000000000000
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\00\00000000000000008000000000000000
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\00\00000000000000008000000000000000
+    projectPath: Library\metadata\00\00000000000000008000000000000000
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\00\00000000000000009000000000000000
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\00\00000000000000009000000000000000
+    projectPath: Library\metadata\00\00000000000000009000000000000000
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1a\1afc5a8b0f4b1f3409fe39e43316fca6
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\1a\1afc5a8b0f4b1f3409fe39e43316fca6
+    projectPath: Library\metadata\1a\1afc5a8b0f4b1f3409fe39e43316fca6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\1a\1afc5a8b0f4b1f3409fe39e43316fca6.info
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\1a\1afc5a8b0f4b1f3409fe39e43316fca6.info
+    projectPath: Library\metadata\1a\1afc5a8b0f4b1f3409fe39e43316fca6.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\39\39e61ce28c9c9144789e2fd45f51b09a
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\39\39e61ce28c9c9144789e2fd45f51b09a
+    projectPath: Library\metadata\39\39e61ce28c9c9144789e2fd45f51b09a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\39\39e61ce28c9c9144789e2fd45f51b09a.info
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\39\39e61ce28c9c9144789e2fd45f51b09a.info
+    projectPath: Library\metadata\39\39e61ce28c9c9144789e2fd45f51b09a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\59\5962c8e558b7121498c6a0b5d932764b
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\59\5962c8e558b7121498c6a0b5d932764b
+    projectPath: Library\metadata\59\5962c8e558b7121498c6a0b5d932764b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\59\5962c8e558b7121498c6a0b5d932764b.info
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\59\5962c8e558b7121498c6a0b5d932764b.info
+    projectPath: Library\metadata\59\5962c8e558b7121498c6a0b5d932764b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\5f\5ff98a4556ae56141bc394c4fbbaf063
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\5f\5ff98a4556ae56141bc394c4fbbaf063
+    projectPath: Library\metadata\5f\5ff98a4556ae56141bc394c4fbbaf063
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\5f\5ff98a4556ae56141bc394c4fbbaf063.info
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\5f\5ff98a4556ae56141bc394c4fbbaf063.info
+    projectPath: Library\metadata\5f\5ff98a4556ae56141bc394c4fbbaf063.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\cf\cfad6af69969d4dc0a3a4fffee86d766
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\cf\cfad6af69969d4dc0a3a4fffee86d766
+    projectPath: Library\metadata\cf\cfad6af69969d4dc0a3a4fffee86d766
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\cf\cfad6af69969d4dc0a3a4fffee86d766.info
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\cf\cfad6af69969d4dc0a3a4fffee86d766.info
+    projectPath: Library\metadata\cf\cfad6af69969d4dc0a3a4fffee86d766.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\eb\ebdbefd68420d3646969869e740a722e
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\eb\ebdbefd68420d3646969869e740a722e
+    projectPath: Library\metadata\eb\ebdbefd68420d3646969869e740a722e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\eb\ebdbefd68420d3646969869e740a722e.info
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\eb\ebdbefd68420d3646969869e740a722e.info
+    projectPath: Library\metadata\eb\ebdbefd68420d3646969869e740a722e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
