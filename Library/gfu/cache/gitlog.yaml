@@ -12,9 +12,139 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-05-08T14:14:23.010+02:00
-  initializedAtString: 2020-05-08T14:13:56.671+02:00
+  lastUpdatedAtString: 2020-05-11T15:37:50.454+02:00
+  initializedAtString: 2020-05-11T15:28:49.215+02:00
   log:
+  - commitID: dc7a0b50b2a8d7f32ac05b210fce1cec2fe313ea
+    mergeA: 
+    mergeB: 
+    authorName: Emilian Kasemi
+    authorEmail: theringsofsaturn@users.noreply.github.com
+    commitEmail: theringsofsaturn@users.noreply.github.com
+    commitName: Emilian Kasemi
+    summary: Butoni Luaj u shtua
+    description: 
+    timeString: 2020-05-11T15:28:44.000+02:00
+    commitTimeString: 2020-05-11T15:28:44.000+02:00
+    changes:
+    - path: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Luaj.png
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\OutSide\Luaj.png
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Luaj.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Luaj.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Asetet
+        e lojes\Graphics\OutSide\Luaj.png.meta
+      projectPath: Assets\DrJ\Asetet e lojes\Graphics\OutSide\Luaj.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\DrJ\Fillimi i Lojes.unity
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Fillimi
+        i Lojes.unity
+      projectPath: Assets\DrJ\Fillimi i Lojes.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 40dff2187d924392e0df4f8b3456de1ef34f6297
+    mergeA: 
+    mergeB: 
+    authorName: Emilian Kasemi
+    authorEmail: theringsofsaturn@users.noreply.github.com
+    commitEmail: theringsofsaturn@users.noreply.github.com
+    commitName: Emilian Kasemi
+    summary: Finished parallaxing
+    description: The Menu of the game
+    timeString: 2020-05-09T04:46:21.000+02:00
+    commitTimeString: 2020-05-09T04:46:21.000+02:00
+    changes:
+    - path: Assets\DrJ\Fillimi i Lojes.unity
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Fillimi
+        i Lojes.unity
+      projectPath: Assets\DrJ\Fillimi i Lojes.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\00\00000000000000005100000000000000
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\00\00000000000000005100000000000000
+      projectPath: Library\metadata\00\00000000000000005100000000000000
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\00\00000000000000008000000000000000
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\00\00000000000000008000000000000000
+      projectPath: Library\metadata\00\00000000000000008000000000000000
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\00\00000000000000009000000000000000
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\00\00000000000000009000000000000000
+      projectPath: Library\metadata\00\00000000000000009000000000000000
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: bf11e7bc6b3cfe30a7423712ee88d8e9c5e3862b
     mergeA: 
     mergeB: 

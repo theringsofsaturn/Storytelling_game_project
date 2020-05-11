@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-05-09T04:45:40.329+02:00
-  initializedAtString: 2020-05-09T04:10:18.039+02:00
+  lastUpdatedAtString: 2020-05-11T16:56:07.221+02:00
+  initializedAtString: 2020-05-11T13:47:11.167+02:00
   entries:
   - path: Assets\DrJ\Fillimi i Lojes.unity
     fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Assets\DrJ\Fillimi
@@ -76,6 +76,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
@@ -100,6 +106,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869
+    projectPath: Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869.info
+    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869.info
+    projectPath: Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\__Backupscenes\0.backup
     fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup

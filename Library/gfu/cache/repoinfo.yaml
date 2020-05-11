@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-05-09T04:10:17.959+02:00
-  initializedAtString: 2020-05-09T04:10:17.959+02:00
+  lastUpdatedAtString: 2020-05-11T16:56:06.913+02:00
+  initializedAtString: 2020-05-11T13:47:11.146+02:00
   currentGitRemote:
     name: origin
     url: https://github.com/theringsofsaturn/Tregim_Interaktiv.git
