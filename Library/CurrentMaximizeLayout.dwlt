@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1280
     height: 587
-  m_MinSize: {x: 813, y: 492}
-  m_MaxSize: {x: 22008, y: 14042}
+  m_MinSize: {x: 640, y: 492}
+  m_MaxSize: {x: 22010, y: 14042}
   vertical: 0
-  controlID: 8055
+  controlID: 9315
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -124,7 +124,7 @@ MonoBehaviour:
   m_MinSize: {x: 336, y: 492}
   m_MaxSize: {x: 14006, y: 14042}
   vertical: 1
-  controlID: 8007
+  controlID: 9316
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 336, y: 271}
   m_MaxSize: {x: 14006, y: 10021}
   vertical: 0
-  controlID: 8008
+  controlID: 9317
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -266,10 +266,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 498
+    width: 408
     height: 278
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 232, y: 271}
+  m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 8}
   m_Panes:
   - {fileID: 8}
@@ -277,7 +277,7 @@ MonoBehaviour:
   - {fileID: 10}
   - {fileID: 11}
   m_Selected: 0
-  m_LastSelected: 0
+  m_LastSelected: 3
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -302,7 +302,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 401
-    width: 496
+    width: 406
     height: 257
   m_SearchFilter:
     m_NameFilter: 
@@ -316,19 +316,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/DrJ/Asetet e lojes/Audio
+    - Assets/DrJ
   m_ViewMode: 1
   m_StartGridSize: 46
   m_LastFolders:
-  - Assets/DrJ/Asetet e lojes/Audio
+  - Assets/DrJ
   m_LastFoldersGridSize: 46
   m_LastProjectPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv
   m_IsLocked: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 67}
-    m_SelectedIDs: e82e0000
-    m_LastClickedID: 12008
-    m_ExpandedIDs: 00000000222c0000282c0000da2c00006c2e0000a82e00004e2f0000943200009632000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 4e2f0000
+    m_LastClickedID: 12110
+    m_ExpandedIDs: 00000000222c0000da2c00006c2e0000a82e00004e2f0000943200009632000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -356,7 +356,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000222c0000282c0000da2c00006c2e0000a82e00004e2f0000943200009632000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000222c0000da2c00006c2e0000a82e00004e2f0000943200009632000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -381,8 +381,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: aca1f2ff
-    m_LastClickedInstanceID: -876116
+    m_SelectedInstanceIDs: e007f1ff
+    m_LastClickedInstanceID: -981024
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 52240000822400003e250000202400001e2400002a2400004825000090240000302400003a2400003843000064360000
     m_RenameOverlay:
@@ -410,7 +410,7 @@ MonoBehaviour:
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 46
-  m_DirectoriesAreaWidth: 161
+  m_DirectoriesAreaWidth: 147
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -505,7 +505,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 401
-    width: 710
+    width: 496
     height: 257
 --- !u!114 &12
 MonoBehaviour:
@@ -521,12 +521,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 498
+    x: 408
     y: 0
-    width: 249
+    width: 339
     height: 278
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 104, y: 121}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -553,9 +553,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 500
+    x: 410
     y: 401
-    width: 245
+    width: 335
     height: 257
 --- !u!114 &14
 MonoBehaviour:
@@ -575,8 +575,8 @@ MonoBehaviour:
     y: 0
     width: 256
     height: 587
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -610,7 +610,7 @@ MonoBehaviour:
     height: 566
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: aca1f2ff
+    m_SelectedIDs: e007f1ff
     m_LastClickedID: 0
     m_ExpandedIDs: a6fbffff00000000b2310000f4310000
     m_RenameOverlay:
@@ -653,16 +653,16 @@ MonoBehaviour:
     y: 0
     width: 277
     height: 587
-  m_MinSize: {x: 275, y: 50}
+  m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 17}
+  m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 17}
   - {fileID: 18}
   - {fileID: 19}
   - {fileID: 20}
-  m_Selected: 0
-  m_LastSelected: 3
+  m_Selected: 3
+  m_LastSelected: 0
 --- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -769,9 +769,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 951
+    x: 1005
     y: 92
-    width: 329
+    width: 275
     height: 566
   progressMessageClearTime: -1
   notificationClearTime: -1
@@ -781,8 +781,8 @@ MonoBehaviour:
   currentStatusEntriesHasUpdate: 0
   repositoryProgressHasUpdate: 1
   appManagerProgressHasUpdate: 0
-  changeTab: 5
-  activeTab: 5
+  changeTab: 3
+  activeTab: 3
   initProjectView:
     hasCompletedInitialCheck: 0
     isUserDataPresent: 0
@@ -932,7 +932,7 @@ MonoBehaviour:
       updatedTimeString: 2020-05-11T15:37:50.418+02:00
       cacheType: 2
     lastCurrentBranchAndRemoteChange:
-      updatedTimeString: 2020-05-11T15:37:50.320+02:00
+      updatedTimeString: 2020-05-11T16:55:03.630+02:00
       cacheType: 1
     currentBranch:
       name: master
@@ -970,7 +970,6 @@ MonoBehaviour:
         - Library\gfu\cache
         - Library\metadata
         - Library\metadata\00
-        - Library\metadata\65
         - Temp
         - Temp\__Backupscenes
         values:
@@ -1048,24 +1047,6 @@ MonoBehaviour:
             workTreeStatus: 0
         - path: Library\metadata\00
           label: 00
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\metadata\65
-          label: 65
           level: 2
           isFolder: 1
           isContainer: 0
@@ -1182,24 +1163,6 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
-      - path: Library\CurrentLayout.dwlt
-        label: CurrentLayout.dwlt
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\CurrentLayout.dwlt
-          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\CurrentLayout.dwlt
-          projectPath: Library\CurrentLayout.dwlt
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
       - path: Library\CurrentMaximizeLayout.dwlt
         label: CurrentMaximizeLayout.dwlt
         level: 1
@@ -1215,24 +1178,6 @@ MonoBehaviour:
           path: Library\CurrentMaximizeLayout.dwlt
           fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\CurrentMaximizeLayout.dwlt
           projectPath: Library\CurrentMaximizeLayout.dwlt
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\EditorInstance.json
-        label: EditorInstance.json
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\EditorInstance.json
-          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\EditorInstance.json
-          projectPath: Library\EditorInstance.json
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
@@ -1470,60 +1415,6 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
-      - path: Library\metadata\65
-        label: 65
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869
-        label: 65cae00c3f8b8ca47ae68ebab5c30869
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869
-          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869
-          projectPath: Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869.info
-        label: 65cae00c3f8b8ca47ae68ebab5c30869.info
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869.info
-          fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869.info
-          projectPath: Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869.info
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
       - path: Temp
         label: Temp
         level: 0
@@ -1622,21 +1513,9 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Library\CurrentLayout.dwlt
-      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\CurrentLayout.dwlt
-      projectPath: Library\CurrentLayout.dwlt
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
     - path: Library\CurrentMaximizeLayout.dwlt
       fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\CurrentMaximizeLayout.dwlt
       projectPath: Library\CurrentMaximizeLayout.dwlt
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\EditorInstance.json
-      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\EditorInstance.json
-      projectPath: Library\EditorInstance.json
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
@@ -1694,18 +1573,6 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869
-      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869
-      projectPath: Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869.info
-      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869.info
-      projectPath: Library\metadata\65\65cae00c3f8b8ca47ae68ebab5c30869.info
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
     - path: Temp\__Backupscenes\0.backup
       fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Temp\__Backupscenes\0.backup
       projectPath: Temp\__Backupscenes\0.backup
@@ -1718,15 +1585,15 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
-    changedFilesText: 17 changed files
+    changedFilesText: 13 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2020-05-11T15:37:50.320+02:00
+      updatedTimeString: 2020-05-11T16:57:57.292+02:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2020-05-11T16:06:25.141+02:00
+      updatedTimeString: 2020-05-11T17:03:53.211+02:00
       cacheType: 6
     lastLocksChangedEvent:
-      updatedTimeString: 2020-05-11T16:06:25.124+02:00
+      updatedTimeString: 2020-05-11T17:03:53.185+02:00
       cacheType: 7
   historyView:
     currentLogHasUpdate: 0
@@ -3600,7 +3467,7 @@ MonoBehaviour:
       changingManually: 0
     hasRemote: 1
     lastCurrentRemoteChangedEvent:
-      updatedTimeString: 2020-05-11T15:37:50.320+02:00
+      updatedTimeString: 2020-05-11T16:55:03.630+02:00
       cacheType: 1
     metricsEnabled: 1
     newRepositoryRemoteUrl: https://github.com/theringsofsaturn/Tregim_Interaktiv.git
@@ -3614,7 +3481,7 @@ MonoBehaviour:
       newGitEmail: theringsofsaturn@users.noreply.github.com
       needsSaving: 0
       lastCheckUserChangedEvent:
-        updatedTimeString: 2020-05-11T16:51:47.150+02:00
+        updatedTimeString: 2020-05-11T16:55:04.255+02:00
         cacheType: 8
     webTimeout: 3000
     gitTimeout: 5000
@@ -3679,13 +3546,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2020-05-11T15:37:50.320+02:00
+    updatedTimeString: 2020-05-11T16:57:57.292+02:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2020-05-11T15:37:48.353+02:00
+    updatedTimeString: 2020-05-11T16:57:57.163+02:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2020-05-11T15:28:47.025+02:00
+    updatedTimeString: 2020-05-11T16:56:28.157+02:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
