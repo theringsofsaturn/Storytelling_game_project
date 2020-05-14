@@ -12,36 +12,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-05-14T03:53:05.909+02:00
+  lastUpdatedAtString: 2020-05-14T03:54:02.300+02:00
   initializedAtString: 2020-05-14T03:02:19.519+02:00
   entries:
-  - path: Library\assetDatabase3
-    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -54,30 +30,6 @@ MonoBehaviour:
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\00\00000000000000005100000000000000
-    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\00\00000000000000005100000000000000
-    projectPath: Library\metadata\00\00000000000000005100000000000000
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\00\00000000000000008000000000000000
-    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\00\00000000000000008000000000000000
-    projectPath: Library\metadata\00\00000000000000008000000000000000
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\00\00000000000000009000000000000000
-    fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\00\00000000000000009000000000000000
-    projectPath: Library\metadata\00\00000000000000009000000000000000
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
