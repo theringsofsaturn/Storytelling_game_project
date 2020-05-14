@@ -12,9 +12,129 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-05-11T17:08:29.946+02:00
-  initializedAtString: 2020-05-11T15:28:49.215+02:00
+  lastUpdatedAtString: 2020-05-14T03:03:38.960+02:00
+  initializedAtString: 2020-05-14T03:02:49.828+02:00
   log:
+  - commitID: 90bf43a1a72438a9841d6880ab59238cf56bc3e1
+    mergeA: 
+    mergeB: 
+    authorName: Emilian Kasemi
+    authorEmail: theringsofsaturn@users.noreply.github.com
+    commitEmail: theringsofsaturn@users.noreply.github.com
+    commitName: Emilian Kasemi
+    summary: Cheatblock Point
+    description: 
+    timeString: 2020-05-14T03:03:10.000+02:00
+    commitTimeString: 2020-05-14T03:03:10.000+02:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 683e7b605ae09fab560642c7cd30d624f631a32e
+    mergeA: 
+    mergeB: 
+    authorName: Emilian Kasemi
+    authorEmail: theringsofsaturn@users.noreply.github.com
+    commitEmail: theringsofsaturn@users.noreply.github.com
+    commitName: Emilian Kasemi
+    summary: Cheatblock Point
+    description: 
+    timeString: 2020-05-14T03:02:45.000+02:00
+    commitTimeString: 2020-05-14T03:02:45.000+02:00
+    changes:
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\00\00000000000000005100000000000000
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\00\00000000000000005100000000000000
+      projectPath: Library\metadata\00\00000000000000005100000000000000
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\00\00000000000000008000000000000000
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\metadata\00\00000000000000008000000000000000
+      projectPath: Library\metadata\00\00000000000000008000000000000000
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\user\Documents\GitHub\Tregim_Interaktiv\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 27c9857bb9f2328f5850a5bd1c121ba3b4629181
     mergeA: 
     mergeB: 
